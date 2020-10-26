@@ -46,7 +46,7 @@ body {
     cursor: pointer;
 }
 .top-nav .search-container button:hover{
-    background: #ccc;
+    background:#158467;
 }
 @media screen and (max-width: 600px) {
     .top-nav .search-container {
